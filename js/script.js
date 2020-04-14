@@ -1,4 +1,4 @@
-fetch('json_demo.json')
+fetch('template.json')
   .then((response) => {
     return response.json();
   })
