@@ -1,4 +1,4 @@
-fetch('template.json')
+fetch('https://yeheizkiel.github.io/ryuu-test/js/template.json')
   .then((response) => {
     return response.json();
   })
